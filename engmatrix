@@ -1,0 +1,23 @@
+## <span style="color:#C04A1A;"><strong>Engineering Skills Matrix — CI/CD Target Model Addendum</strong></span>
+
+### <span style="color:#C04A1A;"><strong>Context</strong></span>
+
+The original engineering skills matrix intentionally captured **all existing skills** across the current team, including legacy and maintenance-oriented capabilities.  
+This was necessary to establish an accurate baseline of *where we are today*.
+
+However, under the **target delivery model** (CI/CD-driven, automation-first, separated maintenance vs new feature development), the skills matrix must evolve.
+
+---
+
+### <span style="color:#C04A1A;"><strong>What Changes with the New Model</strong></span>
+
+As Prism moves toward a CI/CD-based delivery system, the engineering organization must support:
+
+- Automated testing
+- Pipeline-driven releases
+- Infrastructure-as-code
+- Artifact-driven delivery gates
+- Reduced manual QA and ad hoc deployment work
+
+This introduces **new skill requirements** that are either:
+1
